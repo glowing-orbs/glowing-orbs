@@ -1,11 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
+<h3 align="center">Glowing Orbs</h3>
+
+<p align="center">
+	<img src="./glowing orbs.jpg" width="60%"/>
+</p>
+
 <p align="center">
 	<img src="https://profile-counter.glitch.me/{glowing-orbs}/count.svg" height="24px"/>
 </p>
 
-<h3 align="center"> Just as the glowing orbs guide the way across the tranquil waters, so too does hope illuminate the darkest paths of our journey. </h3>
-
+<h6 align="center"> Just as the glowing orbs guide the way across the tranquil waters, so too does hope illuminate the darkest paths of our journey. </h6>
 
 <hr/>
 
